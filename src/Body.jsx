@@ -16,7 +16,7 @@ useEffect(()=>{
      setProductInfo(Product);
 },[]);
   return (
-    <div className="w-10/12 lg:w-9/12 m-auto">
+    <div className="w-10/12 lg:w-10/12 m-auto">
         <div>
             <input
                 type="text"
