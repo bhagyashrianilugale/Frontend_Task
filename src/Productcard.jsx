@@ -3,7 +3,7 @@ import React from 'react'
 const Productcard = ({title, price, imgUrl}) => {
   return (
     <div>
-        <div className={`w-[240px] h-100 mx-8  sm:mx-3.5 md:mx-3.5 lg:mx-4 p-2 rounded-2xl overflow-hidden hover:transition-none 
+        <div className={`w-[200px] h-100 mx-8  sm:mx-3.5 md:mx-3.5 lg:mx-4 p-2 rounded-2xl overflow-hidden hover:transition-none 
                        transition-transform duration-200 transform hover:scale-90`}>
            <div className="relative">
                 <img src={imgUrl}
