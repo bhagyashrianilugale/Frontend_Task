@@ -33,4 +33,4 @@ This project is a frontend implementation of an e-commerce application, built wi
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   https://github.com/bhagyashrianilugale/Frontend_Task.git
