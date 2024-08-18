@@ -33,4 +33,19 @@ This project is a frontend implementation of an e-commerce application, built wi
 
 1. **Clone the repository**:
    ```bash
-   https://github.com/bhagyashrianilugale/Frontend_Task.git
+   git clone https://github.com/bhagyashrianilugale/Frontend_Task.git
+   
+2. **Navigate to the project directory**:
+   ```bash
+      cd vite-project
+
+3. **Install dependencies**:
+   ```bash
+      npm install
+
+4. **Run the application**:
+   ```bash
+      npm run dev
+
+## Live Url:
+[E-Commerce Live](https://frontend-task-snowy.vercel.app/)
